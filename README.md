@@ -1,5 +1,6 @@
 **Customer Reviews of Amazon Products**
 **Data Collection and Preprocessing**
+
 Utilizing Google Colab, I accessed consumer reviews of Amazon products from the Datafiniti dataset. The dataset comprised various attributes including product names, brands, categories, primary categories, manufacturer information, review ratings, review texts, and usernames. After loading the dataset, I performed initial data cleaning steps such as dropping unnecessary columns, checking for missing values, and ensuring data integrity.
 
 **Exploratory Data Analysis**
