@@ -32,5 +32,7 @@ Both models are evaluated, and their accuracies are compared using bar plots. Ad
 **Technologies Used:**
 
 **Python Libraries:**   Pandas, NumPy, Matplotlib, Seaborn, NLTK, BeautifulSoup
+
 **Machine Learning Tools:**    scikit-learn
+
 **Deep Learning Frameworks:**    TensorFlow, Keras
