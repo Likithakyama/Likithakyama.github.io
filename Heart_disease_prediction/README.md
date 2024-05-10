@@ -8,9 +8,11 @@ Heart disease remains a leading cause of mortality worldwide, underscoring the c
 **Key Features:**
 Data Exploration: Dive into the dataset's characteristics and distributions using Pandas, Matplotlib, and Seaborn, facilitating a deeper understanding of the underlying patterns and trends.
 Feature Selection: Employ correlation analysis and heatmap visualization to identify the most influential features and their relationships, aiding in the selection of relevant predictors for the predictive models.
+
 **Data Processing:**
 Apply preprocessing techniques such as feature scaling, categorical variable encoding, and data splitting to prepare the dataset for training and evaluation of machine learning models.
 Machine Learning Models: Implement and compare the performance of three widely used classifiers - K Neighbors, Decision Tree, and Random Forest - to predict the likelihood of heart disease occurrence, providing insights into the strengths and limitations of each approach.
+
 **Dependencies:**
 NumPy: For efficient numerical computations and array manipulation.
 Pandas: For data manipulation and analysis tasks, including reading and writing datasets.
