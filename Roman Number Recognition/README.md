@@ -29,9 +29,15 @@ Performance is evaluated using accuracy metrics and a confusion matrix.
 Users can upload their own handwritten Roman numeral images for prediction. The model returns the predicted class along with confidence scores for each class.
 
 **Technologies Used:**
+
 Python
+
 TensorFlow
+
 OpenCV
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
