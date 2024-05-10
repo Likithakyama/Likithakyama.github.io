@@ -6,6 +6,7 @@ This repository is dedicated to predicting heart disease using machine learning 
 Heart disease remains a leading cause of mortality worldwide, underscoring the critical need for accurate prediction and early detection. By leveraging machine learning techniques on relevant medical data, this project aims to contribute to the development of effective diagnostic tools and personalized treatment strategies.
 
 **Key Features:**
+
 Data Exploration: Dive into the dataset's characteristics and distributions using Pandas, Matplotlib, and Seaborn, facilitating a deeper understanding of the underlying patterns and trends.
 Feature Selection: Employ correlation analysis and heatmap visualization to identify the most influential features and their relationships, aiding in the selection of relevant predictors for the predictive models.
 
