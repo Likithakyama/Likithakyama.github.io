@@ -2,11 +2,11 @@
 
 This repository contains Python code for analyzing Amazon product reviews using both traditional machine learning and deep learning techniques. The analysis pipeline includes data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
-**Dataset**
+**Dataset:**
 
 The dataset used for analysis is the Amazon Consumer Reviews of Amazon Products dataset, obtained from Kaggle. It contains information about various Amazon products along with user reviews and ratings.
 
-**Analysis Steps**
+**Analysis Steps:**
 
 **Data Preparation:**
 
@@ -29,7 +29,7 @@ An LSTM neural network model is trained using Keras for text classification. Wor
 
 Both models are evaluated, and their accuracies are compared using bar plots. Additionally, sample predictions are showcased to demonstrate the models' performance.
 
-**Technologies Used**
+**Technologies Used:**
 
 **Python Libraries:**   Pandas, NumPy, Matplotlib, Seaborn, NLTK, BeautifulSoup
 **Machine Learning Tools:**    scikit-learn
