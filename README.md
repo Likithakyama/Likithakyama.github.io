@@ -16,3 +16,8 @@ Skilled in developing deep learning models for handwritten character recognition
 **Census Income Data**
 
 Leveraged Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to perform in-depth data analysis on Census Income Data, encompassing data preprocessing, visualization, and exploration of key factors influencing income brackets such as age, race, education, occupation, and marital status, thereby enabling thorough understanding and actionable insights from the dataset.
+
+
+**AB Test Analysis**
+
+Experienced data analyst adept at AB test analysis, statistical modeling, and data visualization using tools like Streamlit. Skilled in deriving actionable insights from data to drive decision-making and optimize outcomes. Holds a Master of Science in  Applied Statistics with expertise in hypothesis testing and experimental design. Passionate about leveraging data to drive business success.
