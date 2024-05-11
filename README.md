@@ -8,8 +8,6 @@ Leveraged Pandas, Matplotlib, and Seaborn for comprehensive data analysis and vi
 
 This project showcases my expertise in analyzing Amazon product reviews using a combination of traditional machine learning and deep learning techniques. It encompasses data preprocessing, exploratory data analysis, model training with Naive Bayes and LSTM neural networks, and evaluation of model performance. Leveraging Python libraries such as Pandas, NumPy, and TensorFlow, I gained insights into review sentiment and demonstrated proficiency in both data analysis and machine learning methodologies.
 
-![download](https://github.com/Likithakyama/Likithakyama.github.io/assets/147211200/74669b20-d1ba-46e9-b4d2-f27192ab2197)
-
 
 
 **Roman Number Recognition**
