@@ -7,7 +7,7 @@ This Python script analyzes productivity and performance metrics within a manufa
 
 Data Import and Preprocessing: The script starts by importing necessary libraries such as NumPy, pandas, and matplotlib. It loads the dataset from an Excel file and performs initial data exploration, including checking for missing values and filling them with zeros.
 
-|**Target Achievement Classification:**
+**Target Achievement Classification:**
 
 A new column is added to classify whether the actual productivity meets the targeted productivity. This classification helps in understanding the overall performance.
 
