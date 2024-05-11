@@ -13,3 +13,6 @@ This project showcases my expertise in analyzing Amazon product reviews using a 
 Skilled in developing deep learning models for handwritten character recognition, specializing in Roman numerals, utilizing transfer learning techniques and the TensorFlow framework. Proficient in preprocessing image data, training models, and evaluating performance metrics. Experienced in using popular libraries like OpenCV, Scikit-learn, Matplotlib, and Seaborn for effective model development and analysis. Demonstrated ability to explore innovative approaches to improve model accuracy and efficiency.
 
 
+**Census Income Data**
+
+Leveraged Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to perform in-depth data analysis on Census Income Data, encompassing data preprocessing, visualization, and exploration of key factors influencing income brackets such as age, race, education, occupation, and marital status, thereby enabling thorough understanding and actionable insights from the dataset.
