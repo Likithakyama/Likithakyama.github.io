@@ -31,8 +31,13 @@ Utilize statistical methods to derive insights and conclusions from the AB test 
 **Technologies Used:**
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Streamlit
