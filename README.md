@@ -27,6 +27,6 @@ Leveraged Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn to per
 Experienced data analyst adept at AB test analysis, statistical modeling, and data visualization using tools like Streamlit. Skilled in deriving actionable insights from data to drive decision-making and optimize outcomes. Holds a Master of Science in  Applied Statistics with expertise in hypothesis testing and experimental design. Passionate about leveraging data to drive business success.
 
 
-
 **Work Funnel Analysis**
+
 Skilled in utilizing Python scripting and Excel data analysis to conduct in-depth evaluations of productivity and performance metrics within manufacturing sectors, enabling strategic decision-making through the identification of patterns in target achievement, workforce distribution, and overtime utilization across various departments and quarters.
